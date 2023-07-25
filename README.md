@@ -9,7 +9,7 @@ GameMakerStudio2
 https://gx.games/games/t2k4q0/war-plane-1945/tracks/b60326ee-2d4f-4321-91a8-59299f6f4831
 
 ### Controls
-Keyboards Arrow = move
+Keyboards Arrow = move, 
 Z = Fire
 
 ### Library dan Assets
